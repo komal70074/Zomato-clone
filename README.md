@@ -1,1 +1,1 @@
-# Zomato-clone
+A Zomato clone refers to a web or mobile application designed to replicate the functionality and features of Zomato, a popular restaurant discovery, food delivery, and online ordering platform. Building a Zomato clone can be an excellent project for learning full-stack development, showcasing your portfolio, or even creating a new startup in the food delivery space.
